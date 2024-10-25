@@ -1,8 +1,7 @@
-# React + Vite
+# Responsive Navbar with React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objective: Build a responsive navigation bar that includes routing.
 
-Currently, two official plugins are available:
+Description: Implement a navbar with links to different pages (e.g., Home, About, Contact) using React Router. Make it responsive to adapt to mobile and desktop views.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feature Focus: Routing and responsive design.
